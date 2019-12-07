@@ -39,7 +39,7 @@ Where DT = delayed time; NRT = near real time; IR = infrared; MW = microwave pro
 ### Sensor types
 There are two main sensor types: infrared and passive microwave. Within these two categories there are specific sensors, such as AVHRR, MODIS, VIRRS, AMSR-E/2 etc. The table below shows all current SST sensors in service. In the text below I give a very brief overview of the sensors types, but not the individual sensors.
 
-![](https://www.frontiersin.org/files/Articles/434095/fmars-06-00420-HTML-r1/image_m/fmars-06-00420-t001.jpg)
+![](https://www.frontiersin.org/files/Articles/434095/fmars-06-00420-HTML-r1/image_m/fmars-06-00420-t001.jpg)  
 *A table from O'Carrol et al. (2019) showing the different platforms, sensor type (IR/PMW) and sensors.*
 
 #### Infrared (IR)
@@ -65,7 +65,7 @@ There are two main sensor types: infrared and passive microwave. Within these tw
 
 ### SST water column structure
 
-![](https://www.ghrsst.org/wp-content/uploads/2016/10/newerSSTdef.gif)
+![](https://www.ghrsst.org/wp-content/uploads/2016/10/newerSSTdef.gif)  
 *Figure showing the vertical water structure in SST measurements (taken from the [GHRSST website](https://www.ghrsst.org/ghrsst-data-services/products/))*
 
 Interface temperature (SSTint)
@@ -116,7 +116,8 @@ Approximate empirical methods of estimating uncertainty are presently the approa
 
 ### Night vs day
 The difference between a daytime hourly SST value and the corresponding foundation temperature of the previous night is defined as diurnal warming (or anomaly). Progress in understanding and quantifying diurnal variability using hourly IR-based SSTs from geostationary platforms. 
-![](https://www.frontiersin.org/files/Articles/434095/fmars-06-00420-HTML-r1/image_m/fmars-06-00420-g006.jpg)
+
+![](https://www.frontiersin.org/files/Articles/434095/fmars-06-00420-HTML-r1/image_m/fmars-06-00420-g006.jpg)  
 *Figure showing the number of days where SST night vs SST day is > 1°K (O'Carrol et al., 2019)*
 
 The following is a forum post by [Sean Baily (NASA)](https://science.gsfc.nasa.gov/sed/bio/sean.w.bailey) on the [Oceancolor](https://oceancolor.gsfc.nasa.gov/forum/oceancolor/topic_show.pl?tid=3614). Sometimes you might see two SST algorithms for MODIS, one based on the 11 micron band, and one on the 4 micron band.
