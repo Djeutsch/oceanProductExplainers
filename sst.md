@@ -80,7 +80,7 @@ Sub-skin sea surface temperature (SSTsub-skin)
 Surface temperature at depth (SSTz or SSTdepth)
 : All measurements of water temperature beneath the SSTsubskin are referred to as depth temperatures (SSTdepth) measured (e.g. drifting buoys, vertical profiling floats). These temperature observations are distinct from SSTskin and SSTsubskin and must be qualified by a measurement depth in meters (e.g., or SST(z) e.g. SST5m).
 
-Foundation temperature (SSTfnd)
+Foundation temperature (SSTfnd)  
 : The temperature free of diurnal temperature variability, i.e., SSTfnd is defined as the temperature at the first time of the day when the heat gain from the solar radiation absorption exceeds the heat loss at the sea surface. Only in situ contact thermometry is able to measure SSTfnd and analysis procedures must be used to estimate the SSTfnd from radiometric retrievals of SSTskin and SSTsubskin taken at other times of the day. 
 ￼
 
