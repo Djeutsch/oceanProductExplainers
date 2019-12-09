@@ -1,4 +1,4 @@
-# Demistifying satellite SST products
+# Demystifying satellite SST products
 
 *by Luke Gregor (6 December 2019)*
 
