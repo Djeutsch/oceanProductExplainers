@@ -1,13 +1,3 @@
----
-title: "Demystifying SST"
-author: Luke Gregor
-date: Dec 9, 2019
-output:
-  custom_document:
-    path: ./SST_demystified.wiki
-    pandoc_args: ["-t", "zimwiki"]
----
-
 # Demistifying satellite SST products
 
 *by Luke Gregor (9 December 2019)*
