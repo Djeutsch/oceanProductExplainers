@@ -65,7 +65,7 @@ There are two main sensor types: infrared and passive microwave. Within these tw
 
 ### SST water column structure
 
-![](https://www.ghrsst.org/wp-content/uploads/2016/10/newerSSTdef.gif)
+![https://www.ghrsst.org/wp-content/uploads/2016/10/newerSSTdef.gif](https://www.ghrsst.org/wp-content/uploads/2016/10/newerSSTdef.gif)
 *Figure showing the vertical water structure in SST measurements (taken from the [GHRSST website](https://www.ghrsst.org/ghrsst-data-services/products/))*
 
 Interface temperature (SSTint)
